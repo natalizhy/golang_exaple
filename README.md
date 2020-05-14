@@ -16,3 +16,8 @@
 8.
 9.
 
+расположение файликов в проекте:
+    -https://github.com/golang-standards/project-layout
+    
+как писать код на Go
+    -https://github.com/codeship/go-best-practices
