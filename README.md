@@ -9,7 +9,7 @@
 1.  нужно запустить веб-приложение, которое могло бы принимать входящие запросы;
 2.
 3.
-4.
+4. 
 5.
 6.
 7.
@@ -41,3 +41,9 @@ GOLANG
 
 Для общения фронтона и бэкенда используют Ajax
 Работает запрос-ответ, чтоб получить данные с бэкенда нужно на фронтоне сделать запрос
+
+#toml     -https://github.com/BurntSushi/toml
+#logrus  -https://github.com/sirupsen/logrus
+#mux     -https://github.com/gorilla/mux
+
+#test     -https://github.com/stretchr/testify
