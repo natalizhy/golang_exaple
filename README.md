@@ -16,12 +16,17 @@
 8.
 9.
 
+создание проекта  #go mod
+    -https://medium.com/mindorks/create-projects-independent-of-gopath-using-go-modules-802260cdfb51
+    
 расположение файликов в проекте:
     -https://github.com/golang-standards/project-layout
     
 как писать код на Go
     -https://github.com/codeship/go-best-practices
 
+makefile нужны для записи туда команд 
+для запуска пишем make и будет отрабатывать дефолтная команда
 
 GOLANG 
 
@@ -32,6 +37,7 @@ GOLANG
         http://golang-book.ru/
         https://gobyexample.com/
         https://metanit.com/go/tutorial/
+        https://golangs.org/input-keyboard
 
 Шаблон jet:     https://github.com/CloudyKit/jet/wiki/3.-Jet-template-syntax
             https://github.com/CloudyKit/jet
@@ -47,3 +53,5 @@ GOLANG
 #mux     -https://github.com/gorilla/mux
 
 #test     -https://github.com/stretchr/testify
+
+#migration -https://github.com/golang-migrate/migrate
