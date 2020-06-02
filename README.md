@@ -58,3 +58,12 @@ GOLANG
 #test     -https://github.com/stretchr/testify
 
 #migration -https://github.com/golang-migrate/migrate
+
+
+инфраструктура
+деплой
+кеширование
+БД
+микросервисы
+
+конкатенация строк - склеивание строк
