@@ -22,6 +22,9 @@
 полиморфизм
 
 
+мьютексы 
+-https://habr.com/ru/post/271789/
+
 создание проекта  #go mod
     -https://medium.com/mindorks/create-projects-independent-of-gopath-using-go-modules-802260cdfb51
     
