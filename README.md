@@ -21,6 +21,7 @@
 инкапсуляция
 полиморфизм
 
+-https://tproger.ru/translations/seven-principles-beginner-should-know/
 
 мьютексы 
 -https://habr.com/ru/post/271789/
