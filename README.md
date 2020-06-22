@@ -85,6 +85,8 @@ GOLANG
 # migration  
     -https://github.com/golang-migrate/migrate
 
+# HTML формы и Go
+    -https://4gophers.ru/articles/html-formy-i-go/#.XvCKcpMzY1J
 
 инфраструктура
 деплой
