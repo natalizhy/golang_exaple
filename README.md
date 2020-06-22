@@ -1,10 +1,10 @@
 # golang_exaple
 
-источники
-    - https://golangs.org/
-    - https://github.com/unknwon/build-web-application-with-golang_EN/blob/master/eBook/preface.md
+# источники
+     - https://golangs.org/
+     - https://github.com/unknwon/build-web-application-with-golang_EN/blob/master/eBook/preface.md
 
-с чего состоит проект
+# с чего состоит проект
 
 1.  нужно запустить веб-приложение, которое могло бы принимать входящие запросы;
 2.
@@ -16,7 +16,7 @@
 8.
 9.
 
-#ооп 
+# ооп 
 
 Шаблон проектирования или паттерн (англ. design pattern) в разработке программного обеспечения — повторяемая архитектурная конструкция, представляющая собой решение проблемы проектирования в рамках некоторого часто возникающего контекста.
 
@@ -51,29 +51,39 @@ GOLANG
 
 Задачи:    https://www.codewars.com/
 
-Основы:     https://golangs.org/
+# Основы:   
+        https://golangs.org/
         https://tour.golang.org/welcome/1  // tour
         http://golang-book.ru/
         https://gobyexample.com/
         https://metanit.com/go/tutorial/
         https://golangs.org/input-keyboard
 
-Шаблон jet:     https://github.com/CloudyKit/jet/wiki/3.-Jet-template-syntax
-            https://github.com/CloudyKit/jet
-            https://godoc.org/github.com/CloudyKit/jet
+# Шаблоны
+    Шаблон jet:         
+        https://github.com/CloudyKit/jet/wiki/3.-Jet-template-syntax
+        https://github.com/CloudyKit/jet
+        https://godoc.org/github.com/CloudyKit/jet
 
-Шаблон:         https://metanit.com/go/web/2.1.php
+    Шаблон:         https://metanit.com/go/web/2.1.php
 
 Для общения фронтона и бэкенда используют Ajax
 Работает запрос-ответ, чтоб получить данные с бэкенда нужно на фронтоне сделать запрос
 
-#toml     -https://github.com/BurntSushi/toml
-#logrus  -https://github.com/sirupsen/logrus
-#mux     -https://github.com/gorilla/mux
+# toml   
+    -https://github.com/BurntSushi/toml
+    
+# logrus 
+    -https://github.com/sirupsen/logrus
+    
+# mux  
+    -https://github.com/gorilla/mux
 
-#test     -https://github.com/stretchr/testify
+# test  
+    -https://github.com/stretchr/testify
 
-#migration -https://github.com/golang-migrate/migrate
+# migration  
+    -https://github.com/golang-migrate/migrate
 
 
 инфраструктура
@@ -94,3 +104,10 @@ GOLANG
 Почему вы хотите уйти с нынешней работы? Почему вы ушли с прошлой работы?
 Какие у вас зарплатные ожидания?
 Есть ли у вас ещё вопросы?
+
+
+# DNS
+chrome://net-internals/#hsts
+
+postgresql.org
+http://127.0.0.1:54422/browser/
