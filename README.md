@@ -33,6 +33,11 @@
 
 Rest Api это взаимодействие между сервером и клиентом
 
+REST расшифровывается как Representational State Transfer. Это механизм, используемый современными клиентскими приложениями для связи с базами данных и серверами через HTTP.
+
+Создание и развёртывание REST API с помощью Go, PostgreSQL, JWT и GORM
+ - https://tproger.ru/translations/deploy-a-secure-golang-rest-api/
+
 мьютексы 
 -https://habr.com/ru/post/271789/
 
